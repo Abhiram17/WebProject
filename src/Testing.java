@@ -17,10 +17,10 @@ public class Testing implements Servlet {
 	@Override
 	public void destroy() {
 		// TODO Auto-generated method stub
-		this is abhirams repository
+		
 	}
 
-	editing by manisha
+	added user details
 	@Override
 	public ServletConfig getServletConfig() {
 		// TODO Auto-generated method stub
